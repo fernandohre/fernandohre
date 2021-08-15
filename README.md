@@ -1,3 +1,4 @@
+![Profile Views](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=fernandohre&repo=fernandohre&countColorcountColor)
 ### Hi there 👋
 
 <!--
