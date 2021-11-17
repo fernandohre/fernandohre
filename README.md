@@ -1,6 +1,6 @@
 ![Profile Views](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=fernandohre&repo=fernandohre&countColorcountColor)
 ### Hi there 👋
-### I'm a Software Engineer living in 🇧🇷 and working at [Hiper](https://hiper.com.br/)
+### I'm a Software Engineer living in 🇧🇷 and working at [WEX inc](https://www.wexinc.com/)
 ### Languages & Tools 🛠
 
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
