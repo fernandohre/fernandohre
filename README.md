@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm currently working as a contractor and in parallel I'm building an application that will simplify the way that brazilians citizens declare their taxes to the government<br>I'm backend specialist but I'm currently learning more stuff about react and angular. I have expertise working with Vuejs<br>Fun fact: The only time I don't think in technology is when I'm at the gym.
+I'm currently working as a contractor and in parallel I'm building an application that will simplify the way that brazilians citizens declare their taxes to the government.
+<br>
+I'm backend specialist but I'm currently learning more stuff about react and angular. 
+<br>
+I have expertise working with Vuejs
+<br>
+**Fun fact**: The only time I don't think in technology is when I'm at the gym.
 
 
 ## 🌐 Socials:
