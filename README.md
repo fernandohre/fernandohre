@@ -1,7 +1,7 @@
 # 💫 About Me:
 .NET Developer that plays around with javascript and currently studying AI (Artifical Intelligence)
 <br>
-**Fun fact**: The only time I don't think in technology is when I'm at the gym.
+**Fun fact**: Like sports and play Football
 
 
 ## 🌐 Socials:
